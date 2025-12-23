@@ -7,6 +7,7 @@ opencv-python
 pyzbar
 
 Pillow
+
 ---
 Warning !
 
