@@ -1,5 +1,6 @@
 # qrcode-decode
-Find QR codes in screen and QR codes content writing in terminal
+It reads the selected QR code file and writes the results to the file.
+
 ---
 ### Requirements
 opencv-python
